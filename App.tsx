@@ -1,7 +1,11 @@
 /**
- * Sample React Native App
- * https://github.com/facebook/react-native
- *
+ * smile_live_app- new vision about app social media 4k experience
+ * developer: BM from storyteller Alexandra for www.smileliveapp.com
+ * version : 0.13.170226"
+ * 
+
+  History - 0.13.170226 : update to react native 0.71.8
+  History - 0.13.170226 : initial version
  * @format
  */
 

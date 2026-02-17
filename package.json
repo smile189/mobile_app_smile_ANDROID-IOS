@@ -1,6 +1,6 @@
 {
   "name": "smile_live_app",
-  "version": "0.0.1",
+  "version": "0.13.170226",
   "private": true,
   "scripts": {
     "android": "react-native run-android",
