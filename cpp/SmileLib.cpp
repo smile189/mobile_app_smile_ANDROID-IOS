@@ -5,11 +5,11 @@
   author : BM 
 */
 #include "SmileLib.h"
-#include <stdio.h>
+
 
 void SmileLib_Init() {
     // Initialize the library, allocate resources, and set up necessary configurations.
-
+    
 }
 
 
